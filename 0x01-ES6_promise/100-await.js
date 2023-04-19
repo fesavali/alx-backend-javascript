@@ -1,4 +1,4 @@
-import { uploadPhoto, createUser } from '100-await';
+import { uploadPhoto, createUser } from './100-await';
 
 const asyncUploadUser = async () => {
   let photo;
