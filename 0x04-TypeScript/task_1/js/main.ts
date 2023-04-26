@@ -37,7 +37,7 @@ interface Teacher {
     (firstName: string, lastName: string): string;
   }
   
-  /* eslint-enable @typescript-eslint/class-name-casing */
+  /* eslint-enable @typescript-eslint/class-name-casing  */
   export const printTeacher: printTeacherFunction = function (
     firstName: string,
     lastName: string
